@@ -35,3 +35,7 @@ Analyzed 149,456 coffee shop transactions to evaluate product demand, sales perf
 ## Skills Demonstrated
 
 Business Analytics • Sales Analysis • Demand Forecasting Support • KPI Reporting • Data Cleaning • Power Query • Power Pivot • Excel Dashboarding
+
+</br>
+
+Project by [**Anurag Chauhan**](https://www.linkedin.com/in/theanuragchauhan/)
